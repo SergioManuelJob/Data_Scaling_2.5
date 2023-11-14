@@ -1,0 +1,1 @@
+Exercise done in class, to show methods in which we can scale the data in dataframes for a better analysis of them.
